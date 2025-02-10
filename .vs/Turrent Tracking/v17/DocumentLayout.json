@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|d:\\download\\3rd year 1st\\gameprog\\turrent tracking\\assets\\script\\manager\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\manager\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|d:\\download\\3rd year 1st\\gameprog\\turrent tracking\\assets\\script\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\homingprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\assets\\script\\goldcoinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\goldcoinui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\assets\\script\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC37D8BC-0C96-69FB-2C4D-738BAC623C9F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Manager\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Manager\\PauseManager.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Manager\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Manager\\PauseManager.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:23:01.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T15:12:59.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoldCoinUI.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\GoldCoinUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GoldCoinUI.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\GoldCoinUI.cs",
+              "RelativeToolTip": "Assets\\Script\\GoldCoinUI.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:12:07.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:29:05.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Turret.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Turret.cs",
+              "RelativeToolTip": "Assets\\Script\\Turret.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:28:22.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomingProjectile.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\HomingProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HomingProjectile.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\HomingProjectile.cs",
+              "RelativeToolTip": "Assets\\Script\\HomingProjectile.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:04:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
+              "ToolTip": "D:\\download\\3rd Year 1st\\gameprog\\Turrent Tracking\\Assets\\Script\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA7wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:52:55.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
